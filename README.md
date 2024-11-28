@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Raphael Luiz</h1>
 <h3 align="center">Software Engineering student at UCB</h3>
+<h3 align="center">Intern React Developer at CrazyTechLabs</h3>
 <h4 align="center">Graphic designer</h4>
 
 <h3 align="center">Languages and Tools:</h3>
