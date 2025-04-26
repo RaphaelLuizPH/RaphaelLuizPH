@@ -1,3 +1,6 @@
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/output/github-snake.svg)
+
+
 # 💫 About Me:
 I am a Software Engineering student at the Catholic University of Brasília, specializing in Full-Stack development and design, working on the development of intuitive interfaces, consuming APIs, and back-end development. My core skills include React and C#, along with proficiency in design tools such as Photoshop, Adobe XD, and Illustrator. <br><br>
 
