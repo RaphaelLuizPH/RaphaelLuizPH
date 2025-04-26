@@ -1,4 +1,4 @@
-![snake gif](https://github.com/RaphaelLuizPH/RaphaelLuizPH/blob/output/github-snake.svg)
+![snake gif](https://github.com/RaphaelLuizPH/RaphaelLuizPH/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 # 💫 About Me:
